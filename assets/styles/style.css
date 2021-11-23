@@ -144,6 +144,6 @@ body {
   }
 
   .special-btn:hover {
-    opacity: 1;
+    opacity: 100%;
   }
 }

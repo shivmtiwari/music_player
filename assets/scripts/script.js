@@ -29,6 +29,14 @@ const songs = [
     duration: '2:27',
   },
   {
+    title: 'Tandav Theme',
+    artist: 'Unknown',
+    coverPath: 'assets/images/cover7.png',
+    discPath: 'assets/music/music7.mp3',
+    duration: '1:06',
+  },
+
+  {
     title: 'Scam 1992 Theme ',
     artist: 'Manu Pilas',
     coverPath: 'assets/images/cover5.jpg',

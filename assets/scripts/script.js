@@ -13,6 +13,13 @@ let songIndex = 0;
 
 // Songs info
 const songs = [
+    {
+    title: 'Apsaraa',
+    artist: 'Jaani, Asees Kaur',
+    coverPath: 'assets/images/cover1.jpg',
+    discPath: 'assets/music/music1.mp3',
+    duration: '8:26',
+  },
 
   {
     title: 'Bella Ciao',
@@ -43,13 +50,7 @@ const songs = [
     discPath: 'assets/music/music5.mp3',
     duration: '1:24',
   },
-  {
-    title: 'Apsaraa',
-    artist: 'Jaani, Asees Kaur',
-    coverPath: 'assets/images/cover1.jpg',
-    discPath: 'assets/music/music1.mp3',
-    duration: '8:26',
-  },
+
   {
     title: 'Dance with Me',
     artist: 'Ahjay Stelino',
